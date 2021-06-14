@@ -1,1 +1,2 @@
 Hi, this is line 1
+Adding line2 for 2nd commit
